@@ -1,0 +1,6 @@
+P:\inledande-programmering-med-csharp\digital-vackarklocka-a\digital-vackarklocka-a\bin\Debug\digital-vackarklocka-a.exe.config
+P:\inledande-programmering-med-csharp\digital-vackarklocka-a\digital-vackarklocka-a\bin\Debug\digital-vackarklocka-a.exe
+P:\inledande-programmering-med-csharp\digital-vackarklocka-a\digital-vackarklocka-a\bin\Debug\digital-vackarklocka-a.pdb
+P:\inledande-programmering-med-csharp\digital-vackarklocka-a\digital-vackarklocka-a\obj\Debug\digital-vackarklocka-a.csprojResolveAssemblyReference.cache
+P:\inledande-programmering-med-csharp\digital-vackarklocka-a\digital-vackarklocka-a\obj\Debug\digital-vackarklocka-a.exe
+P:\inledande-programmering-med-csharp\digital-vackarklocka-a\digital-vackarklocka-a\obj\Debug\digital-vackarklocka-a.pdb
